@@ -2,6 +2,7 @@
 #include <vector>
 
 void g() {
+  std::cout << "Hello world!\n";
 }
 
 int main() {
