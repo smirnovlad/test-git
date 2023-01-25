@@ -4,8 +4,8 @@
 // scope
 int y;
 
-// declaration != definition
-// Any definition is declaration
+declaration != definition
+Any definition is declaration
 
 // One Definition Rule
 char f(char x);
