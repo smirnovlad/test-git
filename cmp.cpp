@@ -38,7 +38,6 @@ int main() {
     
     //std::pair<int> p(1, 2.0);
 
-    dst::heap<int> heap = is_less;
         //dst::heap<int> heap_int;
  
         //std::cout << heap->cmp_function(5, 5);// << ' ' << heap_int.cmp_function(5, 5) << '\n';
