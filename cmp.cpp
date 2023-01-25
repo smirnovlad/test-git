@@ -30,7 +30,10 @@ namespace dst {
 }
  
 bool is_less(int l, int r) {
-        return l <= r;
+	int a = 10, b = 9;
+	a -= b;
+	b += a;
+	a = b - a;	
 }
  
 
